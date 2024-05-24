@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Web Dev",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../Web Development/css personl/css Adv/52 - 8.4-Web-Design-Agency-Project/8.4 Web Design Agency Project/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Dev"
+	}
+}
